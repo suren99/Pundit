@@ -54,15 +54,15 @@ Lets pundIT now
 
 ```
 /**
- * func() -
- * @a:
- * @b:
+ * func() - function name
+ * @a: arg1
+ * @b: arg2
  * @c:
  *
- *
+ * sample function
  *
  * Context:
- * Return:
+ * Return: void
  */
  void func(int a, int b, int c)
 {
